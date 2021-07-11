@@ -14,12 +14,6 @@ vendor/lib/rfsa/adsp/misound_karaokemix_res.bin|1b6114eeefa29e36f10571ae5dde4ba8
 vendor/lib/rfsa/adsp/misound_karaoke_res.bin|eeda10edb9cf93d20cbe9a4ed77dd0eeef81efab
 vendor/lib/rfsa/adsp/misound_res.bin|f9b70e341815fb9c3ea9a0d3a248efd315389f9c
 
-# Camera-Hardware - from olive-user-10-QKQ1.191014.001-V12.0.1.0.QCNMIXM-release-keys
-vendor/lib/android.hardware.camera.provider@2.4-legacy.so
-vendor/lib/camera.device@3.2-impl.so
-vendor/lib64/android.hardware.camera.provider@2.4-legacy.so
-vendor/lib64/camera.device@3.2-impl.so
-
 # Charger - from Xiaomi/olive/olive:10/QKQ1.191014.001/V12.0.2.0.QCNMIXM:user/release-keys
 vendor/bin/hvdcp_opti|a47c1adc0fa14f4b07330fd813777a6135e93a30
 
