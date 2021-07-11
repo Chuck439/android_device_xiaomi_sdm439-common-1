@@ -33,17 +33,19 @@ vendor/etc/init/android.hardware.gatekeeper@1.0-service-qti.rc|74ff564ec41386664
 vendor/lib64/hw/android.hardware.gatekeeper@1.0-impl-qti.so|881ee60c801961f2fb9dd766e0840370add4f506
 vendor/lib/hw/android.hardware.gatekeeper@1.0-impl-qti.so|f835499cca15129395d0aeb964cb18504512e0c4
 
-# Keymaster - from daisy-user-10-QKQ1.191002.002-V11.0.18.0.QDLMIXM-release-keys
-vendor/bin/hw/android.hardware.keymaster@4.0-service-qti|13a894ea69abc056b754fa9e8f8e828ffd1de38c
-vendor/etc/init/android.hardware.keymaster@4.0-service-qti.rc|e502c7046fb6a1955e54936d6c8f4f8c2889b201
-vendor/lib/libkeymasterdeviceutils.so|e3557fd2bc5d01de71b62e378dc51a2696a99768
-vendor/lib/libkeymasterprovision.so|b7a67b7df996341798e01948745dc63f5386b456
-vendor/lib/libkeymasterutils.so|228caaa1bfa8ac3d434f9ac158ca8d1dc1b8c667
-vendor/lib/libqtikeymaster4.so|986f8c48991f4004acecf8ba1c9e442afdcd9ea2
-vendor/lib64/libkeymasterdeviceutils.so|784e8f3e6bb36214d171ba127454554049d140f5
-vendor/lib64/libkeymasterprovision.so|245fa13cad4dc81e66bc6fc3b7d20fa6c1afdefc
-vendor/lib64/libkeymasterutils.so|126096a6ce1ce50db8193a4617f1b1b0f6b3105c
-vendor/lib64/libqtikeymaster4.so|4fea65bc5cdfb2299100cbaeeb80984780b11a17
+# Keymaster - from Nokia/Deadpool_00WW/DPL_sprout:11/RKQ1.200928.002/00WW_3_140:user/release-keys
+vendor/bin/hw/android.hardware.keymaster@4.0-service-qti|671fc714df3c229e9e6678db16e673b272225bcb
+vendor/etc/init/android.hardware.keymaster@4.0-service-qti.rc|c8999fb1bccbef81e6b362059e9a6ebd023de98f
+vendor/lib64/libkeymasterdeviceutils.so|01b50edb4d6c804c31922b361b05705f264e0ff0
+vendor/lib64/libkeymasterprovision.so|beff599c63646fbd1c6b495f56c66901eed1dc2e
+vendor/lib64/libkeymasterutils.so|db21b2fec8e5808c562665746d0394575004070b
+vendor/lib64/libqcbor.so|df6a3f00d7d49e482e0ca2937f5bd708fba32ae6
+vendor/lib64/libqtikeymaster4.so|f3bad3154d7e1f20710bf555ddd4a3090ce8262b
+vendor/lib/libkeymasterdeviceutils.so|ae2893ac60a64d89b38149662fd2eabd43243e9b
+vendor/lib/libkeymasterprovision.so|c20cc8607308894d4c55e8a3ecc51370db375a36
+vendor/lib/libkeymasterutils.so|f4272fbd9055ad44858f26d8aa7bc7cf0b1742ac
+vendor/lib/libqcbor.so|52c7109f127602aac8905cbc8a07f63cd4e4be3a
+vendor/lib/libqtikeymaster4.so|5335ba3db56886a55de1d48950e6b82c5762264a
 
 # QC RIL - from Nokia/Deadpool_00WW/DPL_sprout:11/RKQ1.200928.002/00WW_3_140:user/release-keys
 vendor/bin/hw/qcrild|3eea6728924507e6200a2a58c827bf1235eba28f
