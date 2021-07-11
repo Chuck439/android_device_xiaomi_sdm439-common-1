@@ -15,7 +15,8 @@ include $(LOCAL_PATH)/properties.mk
 
 # Rootdir
 PRODUCT_PACKAGES += \
-    fstab.qcom
+    fstab.qcom \
+    init.xiaomi.sdm439.rc
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
