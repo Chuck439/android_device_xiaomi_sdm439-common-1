@@ -69,19 +69,19 @@ vendor/lib64/libqdp.so|3e4a0e68a4e38ad722d0f9091840396fe9420edd
 vendor/lib64/libqmi.so|977bc3422a1446ebda09517b5fd2ff162c799a81
 -vendor/lib64/libqmiservices.so|984d04dd1e9545948fb844943df2bfc8e8c0ab1f
 
-# QTEE - from daisy-user-10-QKQ1.191002.002-V11.0.2.0.QDLMIXM-release-keys
-vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service|4d4f6f54c856ccdab0fbdda7a5064b24cf72fcd9
+# QTEE - from Nokia/Deadpool_00WW/DPL_sprout:11/RKQ1.200928.002/00WW_3_140:user/release-keys
+vendor/bin/hw/vendor.qti.hardware.qteeconnector@1.0-service|f8dc88c7166ffc2c1d997e7d5f16a8eb69c37cfc
 vendor/etc/init/vendor.qti.hardware.qteeconnector@1.0-service.rc|c966350ee67d3a7c73ca7184e3725264025d16f5
-vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so|f3f5c4216b9a505affbe955a85a56bd39ca1ab74
-vendor/lib/libGPQTEEC_vendor.so|ff57cecc96e32f96564a3b1bb113546eeda045d2
-vendor/lib/libGPTEE_vendor.so|5e817e8ea584fbc02b0098e37f76ccb9d0d2d066
-vendor/lib/libQTEEConnector_vendor.so|dc6380f349dfae6258478b3bf9d329c182e12350
-vendor/lib/vendor.qti.hardware.qteeconnector@1.0.so|aa174ab5a60ba9ade3f90f13ae535e1ecdd9e9ec
-vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so|bc058b17763ed26f882d1042d2012f05022fa8f4
-vendor/lib64/libGPQTEEC_vendor.so|f378e4434df01922c9829406121d77bb3c6afd2c
-vendor/lib64/libGPTEE_vendor.so|0bc88c8e6bbe3b38e5c2229f5dfedf38c0e320d8
-vendor/lib64/libQTEEConnector_vendor.so|68128f4409069546f0dcfabb379e3ec031ce3a36
-vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so|7bc3032b846e896c67dac44f413db78d2acbf99b
+vendor/lib64/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so|b3458f1507146fe99f2f70ed1883ae1ceb2e17bb
+vendor/lib64/libGPQTEEC_vendor.so|22bf79c99fffb5a96c5a674e9d002f6472267de1
+vendor/lib64/libGPTEE_vendor.so|a8896a022e2b977997a40be9c584ff778d25c0f9
+vendor/lib64/libQTEEConnector_vendor.so|62d8993f51e0d4a0c4d6ae2645512ddfc76577f3
+vendor/lib64/vendor.qti.hardware.qteeconnector@1.0.so|29130d7b0050885a6b455390a02a8615563403c4
+vendor/lib/hw/vendor.qti.hardware.qteeconnector@1.0-impl.so|2cf5dd5e236965562a1ba3d12d4bf98159d08fbb
+vendor/lib/libGPQTEEC_vendor.so|be257d7bebf0e73cf642c96ae308262b16d07b15
+vendor/lib/libGPTEE_vendor.so|3e04758f99e0d2f8527b849510063ebacf1eb6f1
+vendor/lib/libQTEEConnector_vendor.so|8cf24406730b9433f7b93c5af2cbd820bde0716f
+vendor/lib/vendor.qti.hardware.qteeconnector@1.0.so|7610290549bec8abb84310427fe0d1c40a298d2a
 
 # Radio - from Nokia/Deadpool_00WW/DPL_sprout:11/RKQ1.200928.002/00WW_3_140:user/release-keys
 vendor/bin/netmgrd|1b4b71a4f3ac57d967ae1ba674081c73fa37cb0e
